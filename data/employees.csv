@@ -1,0 +1,11 @@
+Employee_ID,Name,Department,Age,Salary,Gender,City,Joining_Date
+101,Arun,IT,25.0,25000.0,Male,Chennai,2022-01-10
+102,Priya,HR,30.0,30000.0,Female,Mumbai,2021-05-15
+103,Rahul,Sales,28.0,28000.0,Male,Chennai,2023-02-20
+104,Divya,IT,,40000.0,Female,Delhi,2020-08-12
+105,Kumar,HR,35.0,,Male,Mumbai,2022-11-01
+105,Kumar,HR,35.0,,Male,Mumbai,2022-11-01
+106,Anu,Sales,27.0,32000.0,Female,Chennai,2023-06-10
+107,Ravi,IT,40.0,50000.0,Male,Delhi,2019-03-15
+108,Meena,Finance,32.0,45000.0,Female,Chennai,2021-09-20
+109,John,Finance,29.0,35000.0,Male,Mumbai,2022-04-05
