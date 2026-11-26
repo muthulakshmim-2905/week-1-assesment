@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-'nMain branch: README updated fron main.
+
+Main branch: README updated fron main.
 =======
 
 
@@ -45,4 +45,3 @@
 
 
 feature branch: README updated from feature analysis.
->>>>>>> feature/analysis
