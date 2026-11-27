@@ -168,7 +168,7 @@ departments.to_csv("../data/departments.csv", index=False)
 print("departments.csv created successfully!")
 
 
-# In[ ]:
+# In[23]:
 
 
 # Load departments CSV
@@ -201,4 +201,16 @@ outer_join = pd.merge(df, departments, on="Department", how="outer")
 
 print("Outer Join:")
 display(outer_join)
+
+
+# In[24]:
+
+
+get_ipython().run_line_magic('timeit', 'df["Salary"].mean()')
+
+
+# In[ ]:
+
+
+
 
